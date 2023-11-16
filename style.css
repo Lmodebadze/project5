@@ -1,0 +1,88 @@
+
+/* header */
+
+.headbox {
+    text-align: center;
+    margin-top: 80px;
+}
+.headbox .span-head {
+    font-size: 26px;
+    font-weight: 600;
+    color: #282828;
+}
+.headbox .h-head {
+    font-size: 62px;
+    font-weight: 600;
+color: #282828;}
+.headbox .p-head {
+    font-size: 35px;
+    font-weight: 400;
+    color: #5F6980;
+}
+
+/* main */
+.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+.team .team-member {
+    border: 1px solid;
+    width: 310px;
+    height: 430px;
+    border-color: #EAECF0;
+    display: grid;
+    padding-left: 16px;
+}
+.minifooter .soc-media2 {
+    margin:16px ;
+}
+.team-member .name {
+    font-size: 18px;
+    font-weight: 600;
+    color: #282828;
+}
+.team-member .job {
+    font-size: 14px;
+    font-weight: 400;
+    color: #3E3E59;
+}
+.team-member .text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #5F6980;
+}
+
+/* footer */
+footer {
+    height: 400px;
+    background-color: grey;
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box1 {
+    width: 318px;
+}
+.box1 .text1 {
+    margin-top: 32px;
+}
+.box1 .soc-logos {
+    margin-top: 32px;
+}
+.links {
+    display: grid;
+}
+.services {
+    display: grid;
+}
+.lang {
+    display: grid;
+}
+.footlink {
+    margin-top: 32px;
+}
+
+
